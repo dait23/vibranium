@@ -8,31 +8,31 @@
    { 
       "id":2,
       "title":"CAMPAIGN MANAGEMENT.",
-      "description":"Inilah beberapa bentuk komunikasi yang disampaikan oleh Mediacartz. Anda pun juga bisa menggunakannya!.",
+      "description":"Dapatkan informasi detil dari berbagai pilihan produk yang dapat Anda gunakan untuk menyampaikan pesan dari produk Anda.",
       "img":"/assets/img/about2.png"
    },
    { 
       "id":3,
       "title":"ENGAGEMENT.",
-      "description":"Inilah beberapa bentuk komunikasi yang disampaikan oleh Mediacartz. Anda pun juga bisa menggunakannya!.",
+      "description":"Program loyalty, khusus untuk Anda, pelanggan Mediacartz",
       "img":"/assets/img/about3.png"
    },
    { 
       "id":4,
       "title":"EVENT MANAGEMENT.",
-      "description":"Inilah beberapa bentuk komunikasi yang disampaikan oleh Mediacartz. Anda pun juga bisa menggunakannya!.",
+      "description":"Anda dapat mengontrol sendiri dalam mengomunikasikan produk Anda, seperti: membuat event, mengiklankan, dan mempromosikan event tersebut melalui produk-produk Mediacartz seperti SMS, Email, Whatsapp, dan lain-lain.",
       "img":"/assets/img/about4.png"
    },
    { 
       "id":5,
       "title":"REPORTING.",
-      "description":"Inilah beberapa bentuk komunikasi yang disampaikan oleh Mediacartz. Anda pun juga bisa menggunakannya!.",
+      "description":"Anda dapat melihat laporan secara real-time melalui dashboard management Mediacartz, sehingga Anda dapat melihat semua aktivitas campaign, event, dan lain sebagainya",
       "img":"/assets/img/about5.png"
    },
    { 
       "id":6,
       "title":"ADS SELLER",
-      "description":"Inilah beberapa bentuk komunikasi yang disampaikan oleh Mediacartz. Anda pun juga bisa menggunakannya!.",
+      "description":"Anda juga bisa menjadi Reseller untuk menjual kembali produk-produk Mediacartz, seperti: sms, email, event, whatsapp, dan lainnya kepada klien Anda sendiri. Bergabunglah bersama kami.",
       "img":"/assets/img/about3.png"
    }
 ]

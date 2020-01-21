@@ -1,6 +1,5 @@
 [
-	
- {
+{
  "id":1,	 
   "title" : "MEDIA ADVERTISING",
   "description" : "Sebuah platform periklanan/promosi yang dapat membantu menyampaikan informasi produk Anda secara tepat sasaran, akurat dan efisien.",
@@ -36,5 +35,4 @@
   "description" : "Inilah beberapa bentuk komunikasi yang disampaikan oleh Mediacartz. Anda pun juga bisa menggunakannya!.",
   "img" : "/assets/img/about3.png",
  }
-
 ]

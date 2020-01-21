@@ -2,20 +2,39 @@
 	
  {
  "id":1,	 
-  "title" : "Mediacartz.",
-  "description" : "Inilah beberapa bentuk komunikasi yang disampaikan oleh Mediacartz. Anda pun juga bisa menggunakannya!.",
-  "img" : "/assets/img/header-mac.png",
-  "button_title": "Produk Kami",
-  "link" :"#"
+  "title" : "MEDIA ADVERTISING",
+  "description" : "Sebuah platform periklanan/promosi yang dapat membantu menyampaikan informasi produk Anda secara tepat sasaran, akurat dan efisien.",
+  "img" : "/assets/img/about1.png",
  },
 {
  "id":2,
-  "title" : "Mediacartz.",
+  "title" : "CAMPAIGN MANAGEMENT.",
   "description" : "Inilah beberapa bentuk komunikasi yang disampaikan oleh Mediacartz. Anda pun juga bisa menggunakannya!.",
-  "img" : "/assets/img/header-mac.png",
-  "button_title": "Produk Kami",
-  "link" :"#"
+  "img" : "/assets/img/about2.png",
+ },
+{
+ "id":3,
+  "title" : "ENGAGEMENT.",
+  "description" : "Inilah beberapa bentuk komunikasi yang disampaikan oleh Mediacartz. Anda pun juga bisa menggunakannya!.",
+  "img" : "/assets/img/about3.png",
+ },
+{
+ "id":4,
+  "title" : "EVENT MANAGEMENT.",
+  "description" : "Inilah beberapa bentuk komunikasi yang disampaikan oleh Mediacartz. Anda pun juga bisa menggunakannya!.",
+  "img" : "/assets/img/about4.png",
+ },
+{
+ "id":5,
+  "title" : "REPORTING.",
+  "description" : "Inilah beberapa bentuk komunikasi yang disampaikan oleh Mediacartz. Anda pun juga bisa menggunakannya!.",
+  "img" : "/assets/img/about5.png",
+ },
+{
+ "id":6,
+  "title" : "ADS SELLER",
+  "description" : "Inilah beberapa bentuk komunikasi yang disampaikan oleh Mediacartz. Anda pun juga bisa menggunakannya!.",
+  "img" : "/assets/img/about3.png",
  }
-
 
 ]

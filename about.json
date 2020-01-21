@@ -1,0 +1,45 @@
+[
+	
+ {
+ "id":1,	 
+  "title" : "MEDIA ADVERTISING",
+  "description" : "Sebuah platform periklanan/promosi yang dapat membantu menyampaikan informasi produk Anda secara tepat sasaran, akurat dan efisien.",
+  "img" : "/assets/img/about1.png",
+ },
+{
+ "id":2,
+  "title" : "CAMPAIGN MANAGEMENT.",
+  "description" : "Inilah beberapa bentuk komunikasi yang disampaikan oleh Mediacartz. Anda pun juga bisa menggunakannya!.",
+  "img" : "/assets/img/about2.png",
+ }
+ ,
+{
+ "id":2,
+  "title" : "ENGAGEMENT.",
+  "description" : "Inilah beberapa bentuk komunikasi yang disampaikan oleh Mediacartz. Anda pun juga bisa menggunakannya!.",
+  "img" : "/assets/img/about3.png",
+ }
+ ,
+{
+ "id":2,
+  "title" : "EVENT MANAGEMENT.",
+  "description" : "Inilah beberapa bentuk komunikasi yang disampaikan oleh Mediacartz. Anda pun juga bisa menggunakannya!.",
+  "img" : "/assets/img/about4.png",
+ }
+ ,
+{
+ "id":2,
+  "title" : "REPORTING.",
+  "description" : "Inilah beberapa bentuk komunikasi yang disampaikan oleh Mediacartz. Anda pun juga bisa menggunakannya!.",
+  "img" : "/assets/img/about5.png",
+ }
+ ,
+{
+ "id":2,
+  "title" : "ADS SELLER",
+  "description" : "Inilah beberapa bentuk komunikasi yang disampaikan oleh Mediacartz. Anda pun juga bisa menggunakannya!.",
+  "img" : "/assets/img/about3.png",
+ }
+
+
+]

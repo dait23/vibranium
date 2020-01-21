@@ -1,6 +1,7 @@
 [
 	
  {
+ "id":1,	 
   "title" : "Mediacartz.",
   "description" : "Inilah beberapa bentuk komunikasi yang disampaikan oleh Mediacartz. Anda pun juga bisa menggunakannya!.",
   "img" : "/assets/img/header-mac.png",
@@ -8,6 +9,7 @@
   "link" :"#"
  },
 {
+ "id":2,
   "title" : "Mediacartz.",
   "description" : "Inilah beberapa bentuk komunikasi yang disampaikan oleh Mediacartz. Anda pun juga bisa menggunakannya!.",
   "img" : "/assets/img/header-mac.png",

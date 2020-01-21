@@ -1,0 +1,112 @@
+[ 
+   { 
+      "id":1,
+      "title":"SMS Broadcast",
+      "slug":"sms-broadcast",
+      "category":"SMS",
+      "description":"Anda dapat membuat dan menyebarkan/mempromosikan produk-produk Anda agar lebih di kenal oleh masyarakat luas menggunakan “SMS Broadcast”, hanya dengan memasukkan nomor Anda yang aktif, dan masyarakat luas akan menerimanya dalam bentuk SMS.",
+      "img":"/assets/img/sms-broadcast.png",
+      "icon":"/assets/img/produk4.png",
+      "video":"https://www.youtube.com/watch?v=Veb-iN_CqZI",
+      "faqs":[ 
+         { 
+            "id":1,
+            "title":"Is this a secure site for purchases?",
+            "description":"Absolutely! We work with top payment companies which guarantees your safety and security. All billing information is stored on our payment processing partner which has the most stringent level of certification available in the payments industry."
+         },
+         { 
+            "id":2,
+            "title":"How long are your contracts?",
+            "description":"Absolutely! We work with top payment companies which guarantees your safety and security. All billing information is stored on our payment processing partner which has the most stringent level of certification available in the payments industry."
+         },
+         { 
+            "id":3,
+            "title":"Can I cancel my subscription?",
+            "description":"Absolutely! We work with top payment companies which guarantees your safety and security. All billing information is stored on our payment processing partner which has the most stringent level of certification available in the payments industry."
+         },
+         { 
+            "id":4,
+            "title":"Can I request refund?",
+            "description":"Absolutely! We work with top payment companies which guarantees your safety and security. All billing information is stored on our payment processing partner which has the most stringent level of certification available in the payments industry."
+         }
+      ],
+      "prices":[ 
+         { 
+            "id":1,
+            "provider":"Telkomsel",
+            "amount":350,
+            "currency":"Rp.",
+            "description":"<small> 1 MSISDN</small><br /><small>160 Characters</small><br /><small>1 Campaign</small><br />"
+         },
+         { 
+            "id":2,
+            "provider":"Indosat",
+            "amount":650,
+            "currency":"Rp.",
+            "description":"<small> 1 MSISDN</small><br /><small>160 Characters</small><br /><small>1 Campaign</small><br />"
+         },
+         { 
+            "id":3,
+            "provider":"Xl",
+            "amount":650,
+            "currency":"Rp.",
+            "description":"<small> 1 MSISDN</small><br /><small>160 Characters</small><br /><small>1 Campaign</small><br />"
+         }
+      ]
+   },
+   { 
+      "id":2,
+      "title":"SMS Targeted",
+      "slug":"sms-targeted",
+      "category":"SMS",
+      "description":"Anda dapat membuat dan menyebarkan/mempromosikan produk-produk Anda agar lebih di kenal oleh masyarakat luas menggunakan “SMS Targeted”, hanya dengan memasukkan total penerima (recipient) yang di harapkan pada wilayah yang akan menjadi target yang akan mempromosikan pesan tersebut, dan mereka akan menerimanya dalam bentuk SMS.",
+      "img":"/assets/img/sms-targeted.png",
+      "icon":"/assets/img/produk10.png",
+      "video":"https://www.youtube.com/watch?v=Veb-iN_CqZI",
+      "faqs":[ 
+         { 
+            "id":1,
+            "title":"Is this a secure site for purchases?",
+            "description":"Absolutely! We work with top payment companies which guarantees your safety and security. All billing information is stored on our payment processing partner which has the most stringent level of certification available in the payments industry."
+         },
+         { 
+            "id":2,
+            "title":"How long are your contracts?",
+            "description":"Absolutely! We work with top payment companies which guarantees your safety and security. All billing information is stored on our payment processing partner which has the most stringent level of certification available in the payments industry."
+         },
+         { 
+            "id":3,
+            "title":"Can I cancel my subscription?",
+            "description":"Absolutely! We work with top payment companies which guarantees your safety and security. All billing information is stored on our payment processing partner which has the most stringent level of certification available in the payments industry."
+         },
+         { 
+            "id":4,
+            "title":"Can I request refund?",
+            "description":"Absolutely! We work with top payment companies which guarantees your safety and security. All billing information is stored on our payment processing partner which has the most stringent level of certification available in the payments industry."
+         }
+      ],
+      "prices":[ 
+         { 
+            "id":1,
+            "provider":"Telkomsel",
+            "amount":500,
+            "currency":"Rp.",
+            "description":"<small> 1 MSISDN</small><br /><small>160 Characters</small><br /><small>1 Campaign</small><br />"
+         },
+         { 
+            "id":2,
+            "provider":"Indosat",
+            "amount":650,
+            "currency":"Rp.",
+            "description":"<small> 1 MSISDN</small><br /><small>160 Characters</small><br /><small>1 Campaign</small><br />"
+         },
+         { 
+            "id":3,
+            "provider":"Xl",
+            "amount":650,
+            "currency":"Rp.",
+            "description":"<small> 1 MSISDN</small><br /><small>160 Characters</small><br /><small>1 Campaign</small><br />"
+         }
+      ]
+   }
+]

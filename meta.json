@@ -11,10 +11,24 @@
       "alamat":"Jl. Rawa Bahagia 1 No.12 <br /> Grogol, Jakarta Barat",
       "telepon":"+62 21 5688526",
       "fax":"+62 21 5688526",
-      "email":"cs@mediacartz.com",
-      "facebook":"https://facebook.com/",
-      "twitter":"https://twitter.com/",
-      "instagram":"https://instagram.com/",
-      "youtube":"https://youtube.com/"
-   }
-},
+      "email":"cs@mediacartz.com"
+   },
+   "social":[ 
+      { 
+         "title":"facebook",
+         "link":"https://facebook.com/"
+      },
+      { 
+         "title":"twitter",
+         "link":"https://twitter.com/"
+      },
+      { 
+         "title":"instagram",
+         "link":"https://instagram.com/"
+      },
+      { 
+         "title":"youtube",
+         "link":"https://youtube.com/"
+      }
+   ]
+}

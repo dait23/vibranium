@@ -1,0 +1,20 @@
+{ 
+   "meta_title":"Mediacartz",
+   "meta_icon":"/favicon.png",
+   "meta_logo":"/assets/img/logo-media-cartz.png",
+   "logo_app_light":"/assets/img/logo-light.png",
+   "logo_app_dark":"/assets/img/logo-dark.png",
+   "meta_keyword":"Mediacartz",
+   "meta_author":"PT.Exel Integrasi Solusindo",
+   "meta_description":"Mediacartz",
+   "office":{ 
+      "alamat":"Jl. Rawa Bahagia 1 No.12 <br /> Grogol, Jakarta Barat",
+      "telepon":"+62 21 5688526",
+      "fax":"+62 21 5688526",
+      "email":"cs@mediacartz.com",
+      "facebook":"https://facebook.com/",
+      "twitter":"https://twitter.com/",
+      "instagram":"https://instagram.com/",
+      "youtube":"https://youtube.com/"
+   }
+},

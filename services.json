@@ -1,0 +1,38 @@
+[ 
+   { 
+      "id":1,
+      "title":"Cepat",
+      "description":"Iklan produk dapat tersampaikan dengan cepat kepada target market Anda.",
+      "img":"/assets/img/icon-cepat-01.png"
+   },
+   { 
+      "id":2,
+      "title":"Mudah",
+      "description":"Dengan beriklan di Mediacartz, Anda dapat dengan sangat mudah menggunakan berbagai fiturnya secara tepat sasaran, akurat dan efisien.",
+      "img":"/assets/img/icon-mudah-01.png"
+   },
+   { 
+      "id":3,
+      "title":"Menghasilkan",
+      "description":"Menghasilkan profit yang sangat baik untuk Anda!.",
+      "img":"/assets/img/icon-revenue-01.png"
+   },
+   { 
+      "id":4,
+      "title":"Tepat Sasaran",
+      "description":"Anda dapat memperoleh hasil yang memuaskan, karena dengan beriklan di Mediacartz akan tepat sasaran dan sesuai dengan harapan Anda.",
+      "img":"/assets/img/icon-tepat-sasaran-01.png"
+   },
+   { 
+      "id":5,
+      "title":"Terpercaya",
+      "description":"Mediacartz sudah teruji dan terbukti dalam merahasiakan database para pelanggannya",
+      "img":"/assets/img/icon-terpercaya-01.png"
+   },
+   { 
+      "id":6,
+      "title":"Terukur",
+      "description":"Segala hal yang dilakukan di Mediacartz adalah terukur, karena semua hasil berdasarkan data yang riil.",
+      "img":"/assets/img/icon-terukur-01.png"
+   }
+]

@@ -1,0 +1,20 @@
+[ 
+   { 
+      "id":1,
+      "name":"John Doe",
+      "text":"Jadilah Bagian dari Mediacartz, Sekarang.",
+      "img":"/assets/img/1.jpg"
+   },
+   { 
+      "id":2,
+      "name":"John Doe",
+      "text":"Jadilah Bagian dari Mediacartz, Sekarang.",
+      "img":"/assets/img/2.jpg"
+   },
+   { 
+      "id":3,
+      "name":"John Doe",
+      "text":"Jadilah Bagian dari Mediacartz, Sekarang.",
+      "img":"/assets/img/3.jpg"
+   }
+]

@@ -1,20 +1,20 @@
 [ 
    { 
       "id":1,
-      "name":"John Doe",
-      "text":"Jadilah Bagian dari Mediacartz, Sekarang.",
+      "name":"Martha 3G",
+      "text":"Kami merasa puas akan pelayanan dari Mediacartz, tidak ada masalah dalam menggunakan produk, harganya juga sesuai dengan apa yang didapat.",
       "img":"/assets/img/1.jpg"
    },
    { 
       "id":2,
-      "name":"John Doe",
-      "text":"Jadilah Bagian dari Mediacartz, Sekarang.",
+      "name":"Kemal mic",
+      "text":"Kami menggunakan Mediacartz karena respon dari tim mereka cepat dan selalu stand by dalam menangani masalah pada SMS Targeted yang kami gunakan.",
       "img":"/assets/img/2.jpg"
    },
    { 
       "id":3,
-      "name":"John Doe",
-      "text":"Jadilah Bagian dari Mediacartz, Sekarang.",
+      "name":"Eric era jaya",
+      "text":"Era Jaya merasa sangat terbantu dengan adanya layanan SMS Broadcast dari Mediacartz. Langkah-langkah untuk menggunakan produknya pun mudah.",
       "img":"/assets/img/3.jpg"
    }
 ]

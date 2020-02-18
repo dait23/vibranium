@@ -18,5 +18,10 @@
       "id":4,
       "name":"3G Indonesia",
       "img":"/assets/img/client5.png"
-   }
+   },
+    { 
+      "id":5,
+      "name":"Muslim App",
+      "img":"/assets/img/clien2.png"
+   },
 ]

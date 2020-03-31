@@ -23,5 +23,15 @@
       "id":5,
       "name":"Ibis",
       "img":"http://exel-int.com/assets/images/client/ibis_logo.png"
+   },
+    { 
+      "id":6,
+      "name":"Intercontineal",
+      "img":"http://exel-int.com/assets/images/client/intercontinental_logo.png"
+   },
+    { 
+      "id":7,
+      "name":"Kvison",
+      "img":"http://exel-int.com/assets/images/client/k-vision_logo.png"
    }
 ]

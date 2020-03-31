@@ -6,22 +6,22 @@
    },
    { 
       "id":2,
-      "name":"Origin Bakery",
-      "img":"/assets/img/client1.png"
+      "name":"Erafone",
+      "img":"http://exel-int.com/assets/images/client/erafone_logo.png"
    },
    { 
       "id":3,
-      "name":"Mic",
-      "img":"/assets/img/client3.png"
+      "name":"Grab",
+      "img":"http://exel-int.com/assets/images/client/Grab_logo.png"
    },
    { 
       "id":4,
-      "name":"3G Indonesia",
-      "img":"/assets/img/client5.png"
+      "name":"Ismaya",
+      "img":"http://exel-int.com/assets/images/client/ismaya_logo.png"
    },
     { 
       "id":5,
-      "name":"Muslim App",
-      "img":"/assets/img/clien2.png"
+      "name":"Ibis",
+      "img":"http://exel-int.com/assets/images/client/ibis_logo.png"
    }
 ]

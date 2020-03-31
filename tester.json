@@ -33,5 +33,25 @@
       "id":7,
       "name":"Kvison",
       "img":"/assets/img/k-vision_logo.png"
+   },
+    { 
+      "id":8,
+      "name":"Samsung",
+      "img":"/assets/img/samsung_logo.png"
+   },
+    { 
+      "id":9,
+      "name":"Debenhams",
+      "img":"/assets/img/debenhams_logo.png"
+   },
+    { 
+      "id":10,
+      "name":"Electonic Solution",
+      "img":"/assets/img/electronic-solution_logo.png"
+   },
+    { 
+      "id":11,
+      "name":"IDI",
+      "img":"/assets/img/idi.png"
    }
 ]

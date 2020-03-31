@@ -2,36 +2,36 @@
    { 
       "id":1,
       "name":"Doss",
-      "img":"http://exel-int.com/assets/images/client/doss_logo.png"
+      "img":"/assets/img/doss_logo.png"
    },
    { 
       "id":2,
       "name":"Erafone",
-      "img":"http://exel-int.com/assets/images/client/erafone_logo.png"
+      "img":"/assets/img/erafone_logo.png"
    },
    { 
       "id":3,
       "name":"Grab",
-      "img":"http://exel-int.com/assets/images/client/Grab_logo.png"
+      "img":"/assets/img/Grab_logo.png"
    },
    { 
       "id":4,
       "name":"Ismaya",
-      "img":"http://exel-int.com/assets/images/client/ismaya_logo.png"
+      "img":"/assets/img/ismaya_logo.png"
    },
     { 
       "id":5,
       "name":"Ibis",
-      "img":"http://exel-int.com/assets/images/client/ibis_logo.png"
+      "img":"/assets/img/ibis_logo.png"
    },
     { 
       "id":6,
       "name":"Intercontineal",
-      "img":"http://exel-int.com/assets/images/client/intercontinental_logo.png"
+      "img":"/assets/img/intercontinental_logo.png"
    },
     { 
       "id":7,
       "name":"Kvison",
-      "img":"http://exel-int.com/assets/images/client/k-vision_logo.png"
+      "img":"/assets/img/k-vision_logo.png"
    }
 ]

@@ -1,0 +1,27 @@
+[ 
+   { 
+      "id":1,
+      "name":"Doss",
+      "img":"/assets/img/client1.png"
+   },
+   { 
+      "id":2,
+      "name":"Origin Bakery",
+      "img":"/assets/img/client1.png"
+   },
+   { 
+      "id":3,
+      "name":"Mic",
+      "img":"/assets/img/client3.png"
+   },
+   { 
+      "id":4,
+      "name":"3G Indonesia",
+      "img":"/assets/img/client5.png"
+   },
+    { 
+      "id":5,
+      "name":"Muslim App",
+      "img":"/assets/img/clien2.png"
+   }
+]

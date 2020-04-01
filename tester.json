@@ -2,56 +2,56 @@
    { 
       "id":1,
       "name":"Doss",
-      "img":"/assets/img/doss_logo.png"
+      "img":"https://res.cloudinary.com/nomadic-id/image/upload/v1585712408/doss_logo.png"
    },
    { 
       "id":2,
       "name":"Erafone",
-      "img":"/assets/img/erafone_logo.png"
+      "img":"https://res.cloudinary.com/nomadic-id/image/upload/v1585712409/erafone_logo.png"
    },
    { 
       "id":3,
       "name":"Grab",
-      "img":"/assets/img/Grab_logo.png"
+      "img":"https://res.cloudinary.com/nomadic-id/image/upload/v1585712408/Grab_logo.png"
    },
    { 
       "id":4,
       "name":"Ismaya",
-      "img":"/assets/img/ismaya_logo.png"
+      "img":"https://res.cloudinary.com/nomadic-id/image/upload/v1585712409/ismaya_logo.png"
    },
     { 
       "id":5,
       "name":"Ibis",
-      "img":"/assets/img/ibis_logo.png"
+      "img":"https://res.cloudinary.com/nomadic-id/image/upload/v1585712409/ibis_logo.png"
    },
     { 
       "id":6,
       "name":"Intercontineal",
-      "img":"/assets/img/intercontinental_logo.png"
+      "img":"https://res.cloudinary.com/nomadic-id/image/upload/v1585712409/intercontinental_logo.png"
    },
     { 
       "id":7,
       "name":"Kvison",
-      "img":"/assets/img/k-vision_logo.png"
+      "img":"https://res.cloudinary.com/nomadic-id/image/upload/v1585712409/k-vision_logo.png"
    },
     { 
       "id":8,
       "name":"Samsung",
-      "img":"/assets/img/samsung_logo.png"
+      "img":"https://res.cloudinary.com/nomadic-id/image/upload/v1585712410/samsung_logo.png"
    },
     { 
       "id":9,
       "name":"Debenhams",
-      "img":"/assets/img/debenhams_logo.png"
+      "img":"https://res.cloudinary.com/nomadic-id/image/upload/v1585712408/debenhams_logo.png"
    },
     { 
       "id":10,
       "name":"Electonic Solution",
-      "img":"/assets/img/electronic-solution_logo.png"
+      "img":"https://res.cloudinary.com/nomadic-id/image/upload/v1585712409/electronic-solution_logo.png"
    },
     { 
       "id":11,
       "name":"IDI",
-      "img":"/assets/img/idi.png"
+      "img":"https://res.cloudinary.com/nomadic-id/image/upload/v1585712409/idi.png"
    }
 ]

@@ -1,0 +1,97 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<title></title>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<meta name="robots" content="noindex, nofollow">
+<meta name="googlebot" content="noindex, nofollow">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/signature_pad@3.0.0-beta.3/dist/signature_pad.umd.min.js"></script>
+
+<style id="compiled-css" type="text/css">
+.wrapper {
+position: relative;
+width: 400px;
+height: 300px;
+-moz-user-select: none;
+-webkit-user-select: none;
+-ms-user-select: none;
+user-select: none;
+}
+img {
+position: absolute;
+left: 0;
+top: 0;
+}
+
+.signature-pad {
+position: absolute;
+left: 0;
+top: 0;
+width:400px;
+height:300px;
+background: blue;
+}
+#clear{
+ display: block;
+ width:100px
+}
+</style>
+
+</head>
+<body>
+
+<div class="wrapper">
+
+<canvas id="signature-pad" class="signature-pad" width=400 height=300></canvas>
+</div>
+<div>
+<button id="clear">Clear</button>
+<button id="save">Save</button>
+</div>
+
+<!-- TODO: Missing CoffeeScript 2 -->
+
+<script type="text/javascript">
+
+
+var signaturePad = new SignaturePad(document.getElementById('signature-pad'), {
+backgroundColor: 'rgba(255, 255, 255, 0)',
+penColor: 'rgb(255, 255, 255)'
+});
+var saveButton = document.getElementById('save');
+var cancelButton = document.getElementById('clear');
+
+saveButton.addEventListener('click', function (event) {
+var data = signaturePad.toDataURL('image/png');
+
+// Send data to server instead...
+window.open(data);
+});
+
+cancelButton.addEventListener('click', function (event) {
+signaturePad.clear();
+});
+
+
+//]]></script>
+
+<script>
+// tell the embed parent frame the height of the content
+if (window.parent && window.parent.parent){
+window.parent.parent.postMessage(["resultsFrame", {
+height: document.body.getBoundingClientRect().height,
+slug: "d6a78gwq"
+}], "*")
+}
+
+// always overwrite window.name, in case users try to set it manually
+window.name = "result"
+</script>
+</body>
+</html>

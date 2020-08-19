@@ -1,6 +1,6 @@
 [{
 	"id": 1,
-	"title": "Menjangkau Lebih Luas",
+	"title": "Menjangkau Luas",
 	"color": "#64b3c1",
 	"icon": "ico-telco.png",
 	"desc": "Paket Layanan Telco Mediacartz kini memberikan jangkauan pengiriman SMS, MMS & USSD (Pop Up) yang lebih luas, efektif dan terukur karena telah terintegrasi dengan beberapa operator seperti Telkomsel, Indosat & XL Axiata",
@@ -41,12 +41,12 @@
 		}
 	],
 	"button": [{
-			"title": "Create Ads",
+			"title": "Mulai Beriklan",
 			"classname": "btn-ads",
 			"link": "#"
 		},
 		{
-			"title": "Join Us",
+			"title": "Bergabung Bersama Kami",
 			"classname": "btn-hero-white",
 			"link": "#"
 		}

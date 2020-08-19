@@ -1,6 +1,6 @@
 [{
 	"id": 1,
-	"title": "MENJANGKAU LEBIH LUAS",
+	"title": "Menjangkau Lebih Luas",
 	"color": "#64b3c1",
 	"icon": "ico-telco.png",
 	"desc": "Paket Layanan Telco Mediacartz kini memberikan jangkauan pengiriman SMS, MMS & USSD (Pop Up) yang lebih luas, efektif dan terukur karena telah terintegrasi dengan beberapa operator seperti Telkomsel, Indosat & XL Axiata",
@@ -27,10 +27,10 @@
 
 }, {
 	"id": 2,
-	"title": "TV Ads",
+	"title": "Iklan TV",
 	"color": "#6897d0",
 	"icon": "ico-ads.png",
-	"desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut",
+	"desc": "Jika Anda ingin memasarkan produk atau jasa Anda ke seluruh Indonesia, maka pilihan untuk iklan melalui channel TV sangat efektif. Karena  informasi yang didapatkan dan lebih dipercaya masyarakat pada umumnya adalah melalui iklan Televisi.",
 	"listing": [{
 			"id": 1,
 			"img": "/assets/img/v2/exel.jpg"
@@ -54,10 +54,10 @@
 
 }, {
 	"id": 3,
-	"title": "Influencer",
+	"title": "KOL & Influencer",
 	"color": "#7c71d5",
 	"icon": "ico-influ.png",
-	"desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut",
+	"desc": "Mediacartz menghadirkan kemudahan bagi brand Anda untuk bekerjasama dengan blogger, youtuber, selebritis yang berpengaruh dalam  komunitas. Yuk, mulai beriklan atau daftar jadi influencer sekarang.",
 	"listing": [{
 			"id": 1,
 			"img": "/assets/img/v2/exel.jpg"
@@ -68,12 +68,12 @@
 		}
 	],
 	"button": [{
-			"title": "Create Project",
+			"title": "Mulai Beriklan",
 			"classname": "btn-influ",
 			"link": "#"
 		},
 		{
-			"title": "Join Project",
+			"title": "Jadi Influencer",
 			"classname": "btn-hero-white",
 			"link": "#"
 		}
@@ -84,7 +84,7 @@
 	"title": "Event",
 	"color": "#9e69d2",
 	"icon": "ico-event.png",
-	"desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut",
+	"desc": "Ingin mengadakan event (konser, seminar, kelas & workshop) online maupun offline hingga aktifitas promosi dalam toko Anda? Yuk, promosikan sekarang melalui Mediacartz.",
 	"listing": [{
 			"id": 1,
 			"img": "/assets/img/v2/exel.jpg"
@@ -95,12 +95,12 @@
 		}
 	],
 	"button": [{
-			"title": "Create Event",
+			"title": "Buat Event",
 			"classname": "btn-event",
 			"link": "#"
 		},
 		{
-			"title": "Buy Tickets",
+			"title": "Beli Tiket",
 			"classname": "btn-hero-white",
 			"link": "#"
 		}

@@ -1,0 +1,109 @@
+[{
+	"id": 1,
+	"title": "Telco",
+	"color": "#64b3c1",
+	"icon": "ico-telco.png",
+	"desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut",
+	"listing": [{
+			"id": 1,
+			"img": "/assets/img/v2/exel.jpg"
+		},
+		{
+			"id": 2,
+			"img": "/assets/img/v2/exel.jpg"
+		}
+	],
+	"button": [{
+			"title": "Create Ads",
+			"classname": "btn-telco",
+			"link": "#"
+		},
+		{
+			"title": "Contact Us",
+			"classname": "btn-hero-white",
+			"link": "#"
+		}
+	]
+
+}, {
+	"id": 2,
+	"title": "TV Ads",
+	"color": "#6897d0",
+	"icon": "ico-ads.png",
+	"desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut",
+	"listing": [{
+			"id": 1,
+			"img": "/assets/img/v2/exel.jpg"
+		},
+		{
+			"id": 2,
+			"img": "/assets/img/v2/exel.jpg"
+		}
+	],
+	"button": [{
+			"title": "Create Ads",
+			"classname": "btn-ads",
+			"link": "#"
+		},
+		{
+			"title": "Join Us",
+			"classname": "btn-hero-white",
+			"link": "#"
+		}
+	]
+
+}, {
+	"id": 3,
+	"title": "Influencer",
+	"color": "#7c71d5",
+	"icon": "ico-influ.png",
+	"desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut",
+	"listing": [{
+			"id": 1,
+			"img": "/assets/img/v2/exel.jpg"
+		},
+		{
+			"id": 2,
+			"img": "/assets/img/v2/exel.jpg"
+		}
+	],
+	"button": [{
+			"title": "Create Project",
+			"classname": "btn-influ",
+			"link": "#"
+		},
+		{
+			"title": "Join Project'",
+			"classname": "btn-hero-white",
+			"link": "#"
+		}
+	]
+
+}, {
+	"id": 4,
+	"title": "Event",
+	"color": "#9e69d2",
+	"icon": "ico-event.png",
+	"desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut",
+	"listing": [{
+			"id": 1,
+			"img": "/assets/img/v2/exel.jpg"
+		},
+		{
+			"id": 2,
+			"img": "/assets/img/v2/exel.jpg"
+		}
+	],
+	"button": [{
+			"title": "Create Event",
+			"classname": "btn-event",
+			"link": "#"
+		},
+		{
+			"title": "Buy Tickets",
+			"classname": "btn-hero-white",
+			"link": "#"
+		}
+	]
+
+}]

@@ -6,11 +6,11 @@
 	"desc": "Paket Layanan Telco Mediacartz kini memberikan jangkauan pengiriman SMS, MMS & USSD (Pop Up) yang lebih luas, efektif dan terukur karena telah terintegrasi dengan beberapa operator seperti Telkomsel, Indosat & XL Axiata",
 	"listing": [{
 			"id": 1,
-			"img": "/assets/img/v2/exel.jpg"
+			"img": "https://res.cloudinary.com/nomadic-id/image/upload/v1602590529/telco1.png"
 		},
 		{
 			"id": 2,
-			"img": "/assets/img/v2/exel.jpg"
+			"img": "https://res.cloudinary.com/nomadic-id/image/upload/v1602590529/telco1.png"
 		}
 	],
 	"button": [{
@@ -33,11 +33,11 @@
 	"desc": "Jika Anda ingin memasarkan produk atau jasa Anda ke seluruh Indonesia, maka pilihan untuk iklan melalui channel TV sangat efektif. Karena  informasi yang didapatkan dan lebih dipercaya masyarakat pada umumnya adalah melalui iklan Televisi.",
 	"listing": [{
 			"id": 1,
-			"img": "/assets/img/v2/exel.jpg"
+			"img": "https://res.cloudinary.com/nomadic-id/image/upload/v1602590529/tv1.png"
 		},
 		{
 			"id": 2,
-			"img": "/assets/img/v2/exel.jpg"
+			"img": "https://res.cloudinary.com/nomadic-id/image/upload/v1602590529/tv1.png"
 		}
 	],
 	"button": [{
@@ -60,11 +60,11 @@
 	"desc": "Mediacartz menghadirkan kemudahan bagi brand Anda untuk bekerjasama dengan blogger, youtuber, selebritis yang berpengaruh dalam  komunitas. Yuk, mulai beriklan atau daftar jadi influencer sekarang.",
 	"listing": [{
 			"id": 1,
-			"img": "/assets/img/v2/exel.jpg"
+			"img": "https://res.cloudinary.com/nomadic-id/image/upload/v1602590529/kol1.png"
 		},
 		{
 			"id": 2,
-			"img": "/assets/img/v2/exel.jpg"
+			"img": "https://res.cloudinary.com/nomadic-id/image/upload/v1602590529/kol1.png"
 		}
 	],
 	"button": [{
@@ -87,11 +87,11 @@
 	"desc": "Ingin mengadakan event (konser, seminar, kelas & workshop) online maupun offline hingga aktifitas promosi dalam toko Anda? Yuk, promosikan sekarang melalui Mediacartz.",
 	"listing": [{
 			"id": 1,
-			"img": "/assets/img/v2/exel.jpg"
+			"img": "https://res.cloudinary.com/nomadic-id/image/upload/v1602590529/event1.png"
 		},
 		{
 			"id": 2,
-			"img": "/assets/img/v2/exel.jpg"
+			"img": "https://res.cloudinary.com/nomadic-id/image/upload/v1602590529/event2.png"
 		}
 	],
 	"button": [{

@@ -24,8 +24,8 @@ spec:
         env:
         - name: HASURA_GRAPHQL_DATABASE_URL
           value: postgres://dmngwiwkkgprnv:077ef3f4108e0b59cd8b18d7c424ee6ec5b07f998575d750bde8adcd57d5fcc6@ec2-52-21-0-111.compute-1.amazonaws.com:5432/dagqvaib17tak0
-        - name: HASURA_GRAPHQL_ADMIN_SECRET
-          value: okok
+#         - name: HASURA_GRAPHQL_ADMIN_SECRET
+#           value: okok
         ## enable the console served by server
         - name: HASURA_GRAPHQL_ENABLE_CONSOLE
           value: "true"

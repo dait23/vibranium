@@ -14,7 +14,7 @@ async function getQuotes(req) {
 
       multi_match: {
         query:    req.title,
-        fields: [ "title", "created_by" ],
+        fields: [ "title", "created_by", "address" ],
         operator: "and",
         fuzziness: "auto" 
       }

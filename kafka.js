@@ -8,7 +8,7 @@ var argv = require('optimist').argv;
 var topic = argv.topic || 'topic1';
 
 var client = new Client({ kafkaHost: 'http://192.168.1.84:9092' });
-var topics = [{ topic: topic, partition: 1 }, { topic: topic, partition: 0 }];
+var topics = [{ topic: marbles, partition: 1 }, { topic: marbles, partition: 0 }];
 var options = { autoCommit: false, fetchMaxWaitMs: 1000, fetchMaxBytes: 1024 * 1024 };
 
 var consumer = new Consumer(client, topics, options);

@@ -1,7 +1,7 @@
 const { Client } = require("@elastic/elasticsearch");
                    require("dotenv").config();
 
-const elasticUrl = process.env.ELASTIC_URL || "http://192.168.1.83:30315";
+const elasticUrl = process.env.ELASTIC_URL || "http://elastic:admin@192.168.1.83:9200";
 const esclient   = new Client({ node: elasticUrl });
 const index      = "store";
 const type       = "_doc";

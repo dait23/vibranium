@@ -1,14 +1,14 @@
 [ 
    { 
       "id":1,
-      "name":"Martha 3G",
-      "text":"Kami merasa puas akan pelayanan dari Mediacartz, tidak ada masalah dalam menggunakan produk, harganya juga sesuai dengan apa yang didapat.",
-      "img":"https://phoenix-storage.nyc3.cdn.digitaloceanspaces.com/marta.png"
+      "name":"Ratna Owner @catering_bundajuan",
+      "text":"Mediacartz membuat saya bisa beriklan seperti merek-merek besar lainnya. Walaupun saya pengusaha lokal tapi diperlakukan seperti pengiklan yang sudah besar.",
+      "img":"https://phoenix-storage.nyc3.cdn.digitaloceanspaces.com/ratna.png"
    },
    { 
       "id":2,
-      "name":"Kemal MIC",
-      "text":"Kami menggunakan Mediacartz karena respon dari tim mereka cepat dan selalu stand by dalam menangani masalah pada SMS Targeted yang kami gunakan.",
-      "img":"/assets/img/testimoni-kemal.png"
+      "name":"Bp. Drajat Pengusaha boneka, tas dan seragam merek Pesona",
+      "text":"Mudah dan murah. Sebelum saya kenal mediacartz, saya hanya berpikir tentang produksi dan jualan. Ternyata marketing dan promosi sangatlah penting, dan saya banyak berkonsultasi dengan pihak mediacartz bagaimana cara promosi produk-produk saya yang efektif. Sangat membantu dan jadi banyak yang pesan barang saya lewat online.",
+      "img":"https://phoenix-storage.nyc3.cdn.digitaloceanspaces.com/drajat.png"
    }
 ]
